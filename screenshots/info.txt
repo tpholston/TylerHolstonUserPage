@@ -1,0 +1,6 @@
+I use the github desktop application so I don't have to write commands.
+If you want the commands to make sure I know how to use github though:
+git clone
+git add README.md
+git commit -m "Update readme file"
+git push origin main
