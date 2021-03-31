@@ -1,4 +1,8 @@
 # Tyler Holston
+- US Goverment SECRET security clearance
+- Proficient in C#, C, C++, Python, Java, Javascript, Bash, and mySQL
+- I play World of Warcraft
+- I like surfing, soccer, and swimming
 
 ## Work Experience
 ![Peraton](img/Peraton.png "Peraton Logo")
