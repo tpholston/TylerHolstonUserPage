@@ -21,19 +21,16 @@
 
 ## Education
 - **University of California - San Diego**
-
     - 9/19 – current
     - Major in Computer Science and Engineering
     - GPA: 3.64
 
 - **Cochise College**
-
     - 6/16 – 12/18
     - Dual Enrollment
     - GPA: 4.0
 
 - **Buena High School**
-
     - 8/15 – 5/19 
     - High School Diploma
     - Class of 2019 Salutatorian
